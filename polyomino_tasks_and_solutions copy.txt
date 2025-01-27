@@ -1,0 +1,104 @@
+1
+10
+20
+Returns: 200
+3
+10
+10
+Returns: 480
+7
+17
+29
+Returns: 279268
+6
+12
+12
+Returns: 19460
+5
+18
+21
+Returns: 19156
+4
+27
+11
+Returns: 4588
+3
+772
+16
+Returns: 69384
+3
+17
+800
+Returns: 76698
+3
+20
+21
+Returns: 2274
+2
+780
+16
+Returns: 24164
+2
+27
+780
+Returns: 41313
+2
+25
+21
+Returns: 1004
+1
+763
+18
+Returns: 13734
+1
+11
+777
+Returns: 8547
+1
+25
+13
+Returns: 325
+1
+184
+277
+Returns: 50968
+3
+75
+10
+Returns: 3990
+5
+46
+20
+Returns: 50008
+8
+9
+9
+Returns: 82732
+7
+8
+8
+Returns: 18424
+6
+7
+7
+Returns: 4080
+5
+6
+6
+Returns: 904
+4
+5
+5
+Returns: 204
+3
+4
+4
+Returns: 48
+2
+3
+3
+Returns: 12
+1
+2
+2
+Returns: 4

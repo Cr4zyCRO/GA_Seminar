@@ -1,0 +1,39 @@
+#Test 1 passed successfully. Time to process: 0.105963 seconds.
+#Test 2 passed successfully. Time to process: 0.086971 seconds.
+#Test 3 passed successfully. Time to process: 268.621941 seconds.
+#Test 4 passed successfully. Time to process: 4.166663 seconds.
+#Test 5 passed successfully. Time to process: 9.970795 seconds.
+#Test 6 passed successfully. Time to process: 1.737336 seconds.
+#Test 7 passed successfully. Time to process: 1628.933666 seconds.
+#Test 8 passed successfully. Time to process: 1559.916517 seconds.
+#Test 9 passed successfully. Time to process: 1.242081 seconds.
+#Test 10 passed successfully. Time to process: 505.779781 seconds.
+#Test 11 passed successfully. Time to process: 1410.515985 seconds.
+#Test 12 passed successfully. Time to process: 0.639189 seconds.
+#Test 13 passed successfully. Time to process: 295.509206 seconds.
+#Test 14 passed successfully. Time to process: 105.254336 seconds.
+#Test 15 passed successfully. Time to process: 0.133349 seconds.
+#Test 16 passed successfully. Time to process: 3863.902960 seconds.
+#Test 17 passed successfully. Time to process: 3.807970 seconds.
+#Test 18 passed successfully. Time to process: 60.166253 seconds.
+#Test 19 passed successfully. Time to process: 8.692035 seconds.
+#Test 20 passed successfully. Time to process: 1.533329 seconds.
+#Test 21 passed successfully. Time to process: 0.274536 seconds.
+#Test 22 passed successfully. Time to process: 0.042132 seconds.
+#Test 23 passed successfully. Time to process: 0.007546 seconds.
+#Test 24 passed successfully. Time to process: 0.000000 seconds.
+#Test 25 passed successfully. Time to process: 0.000000 seconds.
+#Test 26 passed successfully. Time to process: 0.000000 seconds.
+
+
+Total Tests: 26
+Passed Tests: 26
+Failed Tests: 0
+
+Total Processing Time
+Total seconds: 9731.04 seconds
+Total minutes: 162.18 minutes
+Total hours: 2.70 hours
+
+
+https://archive.topcoder.com/ProblemStatement/pm/4489
